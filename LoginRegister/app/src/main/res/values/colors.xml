@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryColor">#50C2C9</color>
+    <color name="Secondarycolor">#55BBAF</color>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="background">#E5E5E5</color>
+    <color name="TrendingStart">#36737E</color>
+    <color name="TrendingEnd">#85F3D9</color>
+    <color name="Divider">#E5E5E5</color>
+</resources>

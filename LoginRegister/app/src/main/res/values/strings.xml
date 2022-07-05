@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Putri Domas Kost"</string>
+    <string name="hello">Hello</string>
+    <string name="sudah_mempunyai_akun">Sudah mempunyai akun?</string>
+    <string name="putri_domas_kos_merupakan_hunian_yang_bergerak_di_bidang_jasa_yang_dituntut_untuk_mengutamakan_kualitas_pelayanan_kepada_para_tamunya_yang_terletak_di_gg_balapan_ii_gamping_kidul_ambarketawang_kec_gamping_kab_sleman_diy">Putri Domas Kos merupakan hunian yang bergerak di bidang jasa yang dituntut untuk mengutamakan kualitas pelayanan kepada para tamunya yang terletak di Gg. Balapan II,Gamping Kidul,Ambarketawang,Kec.Gamping,Kab.Sleman,DIY.</string>
+    <string name="logout">Logout</string>
+    <string name="booking">Booking</string>
+    <string name="kost">Kost</string>
+    <string name="home">Home</string>
+</resources>
